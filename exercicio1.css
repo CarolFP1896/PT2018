@@ -28,6 +28,10 @@ th {
     text-align: left;
 }
 
+.text {
+    color: #868686;
+}
+
 .box1 {
     background-color: #007bff;
     color: #DEE2E6;
@@ -56,10 +60,6 @@ th {
     padding: 5px 15px;
     margin: 3px 40px 3px 0px;
     text-align: center;
-}
-
-.text {
-    color: #868686;
 }
 
 .item {
