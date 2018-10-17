@@ -1,0 +1,86 @@
+.background {
+    background-image: url(restaurant.jpeg);
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 100vh;
+    color: white;
+}
+
+.dinnerdash {
+    font-family: 'Amaranth', sans-serif;
+    font-size: 4vh;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px 0px 115px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+}
+
+.items {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 10em;
+    display: flex;
+    font-weight: bold;
+}
+
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 300px 145px;
+}
+
+.title1 {
+    font-size: 8vh;
+    margin-bottom: 0;
+}
+
+.title2 {
+    font-size: 4.5vh;
+}
+
+.form {
+	display: flex;
+	padding: 80px;
+	margin: 0 50px 0 50px;
+	color: #868686;
+	padding-bottom: 10px;
+}
+
+.form1 {
+	display: flex;
+	padding: 80px;
+	margin: 0px 50px 0 50px;
+	color: #868686;
+	padding-top: 0px;
+	padding-bottom: 20px;
+}
+
+.button {
+	background-color: #22c259;
+	border-radius: 0.25rem;
+	padding: 5px 155px;
+	line-height: 2rem;
+	color: white;
+	border: 1px solid #39cc6c;
+	margin: 0px 0px 100px 145px;
+}
+
+.container-footer {
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6B6C6D;
+    padding: 15px 150px;
+}
+
+.footer {
+    font-size: 2.5vh;
+}
