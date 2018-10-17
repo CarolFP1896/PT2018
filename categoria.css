@@ -1,0 +1,142 @@
+.background {
+    background-image: url(helloquence-61189.jpg);
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width: 100%;
+    height: 65vh;
+    color: white;
+}
+
+.container {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px 0px 115px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+}
+
+.items {
+    width: 10em;
+    display: flex;
+}
+
+.title {
+    margin: 145px;
+}
+
+.title1 {
+    font-size: 8vh;
+    margin-bottom: 0;
+}
+
+.title2 {
+    font-size: 4.5vh;
+}
+
+.menu {
+	display: flex;
+	color: white;
+	margin: 5px 0px 5px 115px;
+}
+
+table {
+    margin: 30px auto 110px;
+    height: 300px;
+    width: 60%; 
+}
+
+.table1 {
+    border-collapse: collapse;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+td {
+    border-bottom: 1px solid #DEE2E6;
+    padding: 4px 6px 2px 20px;
+}
+
+th {
+    padding: 12px 20px;
+}
+
+.box {
+    background-color: #DEE2E6;
+    color: #6B6C6D;
+    text-align: left;
+}
+
+.text {
+    color: #868686;
+}
+
+.box1 {
+    background-color: #007bff;
+    color: #DEE2E6;
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 5px 15px;
+    margin: 3px 40px 3px 0px;
+    text-align: center;    
+}
+
+.box2 {
+    background-color: #28a745;
+    color: #DEE2E6;
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 5px 15px;
+    margin: 3px 40px 3px 0px;
+    text-align: center;
+}
+
+.box3 {
+    background-color: #E82431;
+    color: #DEE2E6;
+    border-radius: 5px;
+    font-size: 13px;
+    padding: 5px 15px;
+    margin: 3px 40px 3px 0px;
+    text-align: center;
+}
+
+.item {
+    color: #007bff;
+    font-style: unset;
+    font-weight: bold;
+}
+
+.edit {
+    color: #FDDF4C;
+    font-weight: bold;
+}
+
+.remove {
+    color: #E82431;
+    font-weight: bold;
+}
+
+.button-page {
+    padding: 0px 0px 40px 0px;
+}
+
+.container-footer {
+    display: flex;
+    justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6B6C6D;
+    padding: 15px 150px;
+}
+
+.footer {
+    font-size: 2.5vh;
+}
